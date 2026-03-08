@@ -12,3 +12,6 @@ Angka1 = 10
 Angka2 = 12
 
 print = (Angka1 + Angka2)
+
+days = ['Monday', 'Tuesday', 'Wednesday',
+        'Thursday', 'Friday']
